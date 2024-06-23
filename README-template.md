@@ -27,7 +27,7 @@ Screenshot of my version
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/AnonymousVigo/qr-code-ui))
+- Solution URL: [qr-code-ui](https://qr-code-ui-frontend-mentor-challenge.netlify.app)
 
 ## My process
 
